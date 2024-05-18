@@ -11,6 +11,7 @@ Briefly describe what your app does and the problem it aims to solve. This secti
 - [Features](#features)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
+- [Technologies](#technologies)
 - [Credits](#credits)
 - [License](#license)
 
@@ -56,6 +57,11 @@ State if you are open to contributions and what your requirements are for accept
 3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the branch (git push origin feature/AmazingFeature)
 5. Open a pull request
+
+## Technologies
+Frontend: NextJS
+Backend: Django
+Database: TBD
 
 ## Credits
 Acknowledge those who contributed to the project.
